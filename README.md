@@ -13,7 +13,7 @@ Using an LM35 temperature sensor, the system continuously monitors the room's te
 3. Water Level Management
 The water tank's inlet and outlet valves are controlled via serial communication. When the water level reaches full capacity, the inlet valve is turned OFF. If the water level drops below 2000 liters, the inlet valve is automatically activated to refill the tank.
 
-Technologies and Tools Used
+# Technologies and Tools Used
 
 Arduino IDE: Used for writing and uploading the hardware code.
 PicsimLab: Simulated the hardware components and their functionalities.
