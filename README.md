@@ -1,4 +1,4 @@
-IoT-Based Home Automation System 🌐
+# IoT-Based Home Automation System 
 Project Overview
 This project focuses on leveraging IoT technology to create an intelligent and automated home system. With this system, users can control and monitor various home appliances using their smartphones or internet-enabled devices. The automation also includes the capability to perform predefined tasks, enhancing convenience and energy efficiency. For instance, tasks like automatically managing lighting, temperature, and water levels are made seamless with this system.
 
