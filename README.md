@@ -15,16 +15,18 @@ The water tank's inlet and outlet valves are controlled via serial communication
 
 # Technologies and Tools Used
 
-Arduino IDE: Used for writing and uploading the hardware code.
-PicsimLab: Simulated the hardware components and their functionalities.
-Virtual COM Port: Established a serial communication link between PicsimLab, the virtual Arduino, and the Arduino IDE.
-Blynk IoT App: Enabled cloud-based features for data retrieval and storage, allowing real-time monitoring and control via a smartphone.
-Components and Peripherals
+1. Arduino IDE: Used for writing and uploading the hardware code.
+2. PicsimLab: Simulated the hardware components and their functionalities.
+3. Virtual COM Port: Established a serial communication link between PicsimLab, the virtual Arduino, and the Arduino IDE.
+4. Blynk IoT App: Enabled cloud-based features for data retrieval and storage, allowing real-time monitoring and control via a smartphone.
 
-LDR Sensor
-Temperature System: Includes a heater, cooler, and an LM35 temperature sensor.
-I2C-Based Character LCD (CLCD) for real-time data display.
-LEDs for status indication.
-Ethernet Shield for internet connectivity.
-Serial Remote Tank for water level monitoring and valve control.
+# Components and Peripherals
+
+1. LDR Sensor
+2. Temperature System: Includes a heater, cooler, and an LM35 temperature sensor.
+3. I2C-Based Character LCD (CLCD) for real-time data display.
+4. LEDs for status indication.
+5. Ethernet Shield for internet connectivity.
+6. Serial Remote Tank for water level monitoring and valve control.
+7. 
 This project is fully simulated and demonstrates the potential of IoT in home automation by combining sensors, actuators, and cloud-based technologies.
