@@ -28,5 +28,5 @@ The water tank's inlet and outlet valves are controlled via serial communication
 4. LEDs for status indication.
 5. Ethernet Shield for internet connectivity.
 6. Serial Remote Tank for water level monitoring and valve control.
-7. 
+   
 This project is fully simulated and demonstrates the potential of IoT in home automation by combining sensors, actuators, and cloud-based technologies.
